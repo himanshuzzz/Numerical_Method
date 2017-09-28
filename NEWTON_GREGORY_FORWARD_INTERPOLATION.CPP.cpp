@@ -68,7 +68,7 @@ int main()
     }
     cout<<endl;
   }
-  double ix = 2.7;;
+  double ix;
    cout<<"Enter Interpolate of x: ";
    cin>>ix;
   int h = x[0][1]-x[0][0];
